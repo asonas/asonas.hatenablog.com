@@ -1,0 +1,39 @@
+/* <system section="theme" selected="6435922169449207881"> */
+@import url("http://hatenablog.com/theme/6435922169449207881.css");
+/* </system> */
+
+body {
+    background-color: #fdfdfd;
+    font-size: 110%
+}
+.entry .date-month + .hyphen {
+    background-color: #fefefd;
+}
+
+#main {
+    width: 850px;
+}
+
+.entry .date-day {
+    color: #999;
+}
+
+.instergram {
+    width: 250px;
+    margin-left: 20px;
+    float: right;
+}
+
+img {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0px rgba(90, 90, 100, 0.6);
+}
+
+.photo img {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0px rgba(90, 90, 100, 0.6);
+}
